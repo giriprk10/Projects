@@ -1,0 +1,105 @@
+body{
+    background-image: linear-gradient(to top right,rgba(0, 0, 0, 0.729),rgba(0, 0, 0, 0.751),rgba(0, 0, 0, 0.658),rgba(0, 0, 0, 0.74)),url("https://assets.nflxext.com/ffe/siteui/vlv3/16006346-87f9-4226-bc25-a1fb346a2b0c/9662d0fd-0547-4665-b887-771617268815/IN-en-20240115-popsignuptwoweeks-perspective_alpha_website_small.jpg");
+    background-position:center;
+    background-size: cover;
+    background-attachment:fixed;
+}
+div{
+    width: 300px;
+    height: 600px;
+    border:dashed;
+    position: relative;
+    top: 5px;
+    left: 550px;
+  
+}
+#demo{
+    width: 400px;
+    height: 600px;
+    border-width: 2px;
+    border-style: solid;
+    background-color: rgba(0, 0, 0, 0.504);
+}
+h1{
+    color: white;
+    font-size: 42px;
+    text-align: left;
+    margin-left: 20px;
+}
+.c1{
+    color: white;
+    font-size: 18px;
+    width: 300px;
+    height: 50px;
+    border-color: rgba(255, 255, 255, 0.395);
+    border-radius: 5px;
+    background-color: black;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:700;
+    margin-left:20px ;
+}
+.c2{
+    width: 300px;
+    height: 40px;
+    border-radius: 5px;
+    background-color:crimson;
+    color: white;
+    font-size: 18px;
+    margin-left: 20px;
+   
+}
+#demo1{
+    color: white;
+    font-size: 18px;
+    text-indent: 100px;
+    
+}
+.c3{
+    color: white;
+    font-size: 18px;
+    margin-left:20px;
+}
+.c4{
+   margin-left: 10px; 
+   color: white;
+   font-size: 18px;
+   margin-left: 20px;
+}
+#demo2{
+    text-align: center;
+    color: rgba(255, 255, 255, 0.421);
+    font-size: 18px;
+    text-align: justify;
+    margin-left: 20px;
+}
+#demo3{
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    margin-left: 20px;
+}
+.a1{
+    text-decoration: none;
+    font-size:16px ;
+    color: rgba(0, 0, 255, 0.63);   
+}
+footer{
+    width: 1450px;
+    height: 300px;
+    border-width: 2px;
+    border-style: solid;
+    background-attachment:fixed ;
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.504);
+}
+table,td{
+    padding: 25px;
+    border-collapse: 50px;
+}
+.a2{
+    color: rgba(255, 255, 255, 0.6);
+}
+.a3{
+    color: rgba(255, 255, 255, 0.864);
+    text-decoration: none;
+}
